@@ -20,6 +20,10 @@
   /* 2 */
 }
 
+.border-b {
+  border-bottom: black;
+}
+
 ::before,
 ::after {
   --tw-content: '';
@@ -56,6 +60,10 @@ body {
   /* 1 */
   line-height: inherit;
   /* 2 */
+}
+
+header {
+
 }
 
 /*
